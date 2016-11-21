@@ -1,4 +1,5 @@
 import React, {Component, PropTypes} from 'react'
+import {grey600} from './colors'
 
 class SvgIcon extends Component {
   state = {
@@ -33,7 +34,7 @@ class SvgIcon extends Component {
 
     const rootStyle = {
       display: 'inline-block',
-      color: '#757575',
+      color: grey600,
       height: 24,
       width: 24,
       fill: this.state.hovered ? onColor : offColor,
