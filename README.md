@@ -32,15 +32,6 @@ Reusable UI Components
 - Generic & Flexible  
 - Building blocks
 
-Example Ideas
-
-- Compose multiple Material-UI components to create a new one
-- Refactor a demo to create a reusable component
-- Create two components with different uses out of several reusable ones  
-
-Example Idea
-
-Create a few small reusable components
 
 &lt;SvgIcon/&gt;
 
@@ -51,8 +42,6 @@ Create a few small reusable components
 &lt;ListItem/&gt;
 
 &lt;Checkbox/&gt;
-
-Using these create a playlist, contacts list
 
 [https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7#.prcz9rugq](https://medium.com/javascript-inside/some-thoughts-on-function-components-in-react-cb2938686bc7#.prcz9rugq)
 
