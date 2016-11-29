@@ -58,3 +58,17 @@ Reusable UI Components
 [https://tryolabs.com/blog/2015/04/13/a-reusable-modal-component-in-react/](https://tryolabs.com/blog/2015/04/13/a-reusable-modal-component-in-react/)
 
 [https://www.ibm.com/developerworks/library/wa-react-intro/](https://www.ibm.com/developerworks/library/wa-react-intro/)
+
+[React Storybook Material UI Themi Editor](https://sm-react.github.io/storybook-addon-material-ui/?theme-ind=0&theme-sidebar=true&selectedKind=Material%20App&selectedStory=Airline%20Booking&full=0&down=1&left=1&panelRight=0&downPanel=sm%2Fstorybook-addon-material-ui%2Fmaterial-panel)
+
+Notes
+
+https://babeljs.io/blog/2015/06/07/react-on-es6-plus
+
+ES7 Property Initialiazers
+ES7 Object Spread Operator (Object.assign())
+ES6 Array Spread Operator (Array.concat())
+arrow functions and property initializers
+propTypes - typechecking on the props for a component
+defaultProps - ensure that this.props[‘name’] will have a value if it was not specified by the parent component
+Call super(props) only if you want to access this.props inside the constructor. React automatically set it for you if you want to access it anywhere else
